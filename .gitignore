@@ -1,0 +1,5 @@
+.env
+virtual/
+carapp/__pycache__
+carproject/__pycache__
+.vscode/
